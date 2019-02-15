@@ -140,3 +140,6 @@
 npm test
 ```
 
+
+
+updating as I work through the book
